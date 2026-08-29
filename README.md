@@ -1,2 +1,28 @@
-# meus-desafios-criativos
-Repositório dedicado aos desafios práticos de Inteligência Artificial e Análise de Dados realizados na plataforma DIO. O foco aqui é a aplicação de Engenharia de Prompts para extrair valor e insights de negócios.
+# 🚀 Meus Desafios Criativos - DIO
+
+Bem-vindo ao meu repositório de resoluções de desafios práticos da plataforma [DIO](https://www.dio.me/). 
+
+Embora a descrição principal esteja no "About" do projeto, este arquivo serve como um guia central. O objetivo deste espaço é documentar minha evolução e prática em **Inteligência Artificial**, **Engenharia de Prompts** e **Análise de Dados**, consolidando o aprendizado através de cenários reais de negócios.
+
+## 🗂️ Índice de Desafios
+
+Aqui estão os projetos e desafios concluídos, organizados em suas respectivas pastas:
+
+* **[01. Extraindo Insights do Feedback de Clientes Bancários](./01-insights-feedbacks-bancarios)** 
+  * *Foco:* Criação de prompts estruturados para classificar feedbacks, identificar gargalos no onboarding e sugerir melhorias práticas de UX e Produto.
+  * *Ferramentas:* ChatGPT/Gemini, Prompt Engineering.
+
+*(Novos desafios serão adicionados a esta lista conforme o andamento das trilhas e bootcamps.)*
+
+## 🛠️ Habilidades e Conceitos Aplicados
+
+* **Engenharia de Prompts:** Estruturação de contexto, restrições, definição de personas e formatação de saída.
+* **Análise de Dados Qualitativos:** Extração de padrões, análise de sentimentos e geração de insights a partir de dados textuais.
+* **Boas Práticas:** Anonimização de dados sensíveis e foco em métricas acionáveis.
+* **Versionamento:** Uso de Git/GitHub e documentação em Markdown.
+
+## 👨‍💻 Autor
+
+**Benedito Jaime Melo Moraes Junior**
+* [GitHub](https://github.com/beneX90)
+* [LinkedIn](https://linkedin.com/in/benedito-jaime-melo-moraes-junior-6641132a6)
