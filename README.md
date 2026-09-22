@@ -12,7 +12,9 @@ Aqui estão os projetos e desafios concluídos, organizados em suas respectivas 
   * *Foco:* Criação de prompts estruturados para classificar feedbacks, identificar gargalos no onboarding e sugerir melhorias práticas de UX e Produto.
   * *Ferramentas:* ChatGPT/Gemini, Prompt Engineering.
 
-*(Novos desafios serão adicionados a esta lista conforme o andamento das trilhas e bootcamps.)*
+* **[02. Detecção de Fraudes em Transações Bancárias](./02-deteccao-fraudes-transacoes)**
+  * *Foco:* Construção de um pipeline completo de Machine Learning para identificar fraudes em transações de cartão de crédito, comparando modelos (Regressão Logística, Random Forest, XGBoost e LightGBM), aplicando técnicas de balanceamento (Undersampling e SMOTE) e interpretando resultados com SHAP.
+  * *Ferramentas:* Python, Pandas, Scikit-learn, XGBoost, LightGBM, Imbalanced-learn, SHAP, Matplotlib.
 
 ## 🛠️ Habilidades e Conceitos Aplicados
 
